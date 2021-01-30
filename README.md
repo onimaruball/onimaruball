@@ -1,12 +1,14 @@
+## Hello Everone!😁
+
 My name is Nattawut Theamngoen. I am student who studying in Bachelor of Science Program in Health Data Science at King Mongkut's University of Technology Thonburi and Chulabhorn Royal Academy
 
-### My Work Experience
+### My Work Experience 💻
 In summer 2020 i have oppotunity to working with  Government Big Data Institute (GBDi) for 2 months (June - August)
 Topic i learn in that time are
 1.Analytics and made visualization from basic information about people village in thailand (กชช.2ค)
 2.Data catalog set up for organization from CKAN software.
 
-### Interested field
+### Interested field ⚽
 1.Basic machine learning with structured data.
 
 
@@ -15,7 +17,7 @@ Topic i learn in that time are
 
 3.Health data science project.
 
-### You can contract me at nattawut.ball@mail.kmutt.ac.th
+### You can contract me at nattawut.ball@mail.kmutt.ac.th 😊
 
 
 
