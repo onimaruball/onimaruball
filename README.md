@@ -1,4 +1,4 @@
-## Hello Everone!😁
+## Hello Everyone!😁
 
 My name is Nattawut Theamngoen. I am student who studying in Bachelor of Science Program in Health Data Science at King Mongkut's University of Technology Thonburi and Chulabhorn Royal Academy
 
